@@ -22,5 +22,5 @@ The world has an average of 25% women’s share in parliament seats. It is a hop
 * Skills used:
   Python libraries: Altair for visualization, Pandas for data cleaning, Geopandas for map based analysis and Matplotlib. 
 
-### Note: The project contains interactive plots created using Altair(python lib for visualization) that cannot be rendered in GiHub. Screenshots of those visuals are added to this repository.
+### Note: The project contains interactive plots created using Altair(python lib for visualization) that cannot be rendered in GitHub. Screenshots of those visuals are added to this repository.
 ![GI1](https://github.com/radhikamagaji/Analysis-of-Gender-Inequality-Factors-using-Python/assets/14107116/0cea1440-b13c-4b08-95f8-6e3fa31e0944)
